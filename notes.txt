@@ -1,0 +1,14 @@
+pgAdmin
+- user: postgre
+- pwd: Bob
+
+Commands
+- start app: uvicorn app.main:app --reload
+
+Alembic:
+- init: alembic init alembic
+- create a revision: alembic revision -m "<name for the rev>"
+- alembic current
+- alembic heads (latest)
+- alembic upgrade <revision code or 'head'>
+- alembic downgrade <revision code or -<number of revisions>>

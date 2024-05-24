@@ -1,0 +1,6 @@
+{
+    "title": "TITLE", 
+    "content": "this is my content", 
+    "published": "true",
+    "rating": 4
+}
