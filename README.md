@@ -1,6 +1,10 @@
 # Learning Project
 This is a containerized python API for a social media project using the FastAPI framework, and a PosgreSQL DB. The API counts with secure authentication and authorization for users.
 
+# To be added next:
+- testing
+- deployment
+
 ## Setup
 
 ### Option 1: local machine
